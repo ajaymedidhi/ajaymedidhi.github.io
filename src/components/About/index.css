@@ -1,0 +1,8 @@
+.about-us {
+  background-color: #ffffff; /* White background */
+  color: #0056b3; /* Blue text color */
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1); /* Shadow */
+  /* Add other styling properties as needed */
+}
